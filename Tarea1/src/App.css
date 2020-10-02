@@ -1,0 +1,17 @@
+.header {
+  width:100%;
+  height: 100vh;
+  background: #e2dddd;
+}
+.footer{
+  width:100%;
+  padding:30px;
+  background: #ffffff;
+}
+
+.aside{
+  color:#ffffff;
+    width:20vw;
+    background: #000000;
+    height:30vh;
+}
